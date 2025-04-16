@@ -1,0 +1,45 @@
+body {
+    background-image: linear-gradient(135deg, #f9f871, #a1f0d1, #b39ddb);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Segoe UI', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+
+.btn{
+    height: 100px;
+    width: 100px;
+    border: 3.5px solid black;
+    margin: 0.5rem;
+    display:inline-flex;
+    justify-content: center;
+    border-radius:1rem ;
+
+}
+
+.red{
+    background-color: #D65B7A
+    ;
+}
+.green{
+    background-color: #4E9DBF
+    ;
+}
+.yellow{
+    background-color:#F1923C
+    ;
+}
+.purple{
+    background-color: #7A95E2
+    
+}
+.flash{
+    background-color: white;
+}
+.userflash{
+    background-color: aqua;
+}
